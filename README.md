@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/11RO_DtqzQYAAAAd/dino-chromedino.gif" width="200" alt="dino running"/>
+  <img src="./assets/orca-swim.svg" width="400" alt="orca swimming"/>
 </div>
 
 <h1 align="center">Jossep Miguel Hurtado Garcia</h1>
