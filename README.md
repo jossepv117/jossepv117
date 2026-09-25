@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jossepv117/jossepv117/main/assets/aurora.gif" width="500" alt="aurora borealis"/>
+  <img src="https://raw.githubusercontent.com/jossepv117/jossepv117/main/.github/assets/aurora.gif" width="500" alt="aurora borealis"/>
 </div>
 
 <h1 align="center">Jossep Miguel Hurtado Garcia</h1>
