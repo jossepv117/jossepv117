@@ -38,7 +38,7 @@ contracts = ["Stellar Smart Contracts", "Passkeys"]
   <a href="mailto:jossephurtadogarcia@gmail.com">
     <img src="https://img.shields.io/badge/Email-0a1730?style=flat-square&logo=gmail&logoColor=38c6f4"/>
   </a>
-  <a href="https://www.linkedin.com/in/jossep-hurtado-garcia-56b182417/">
+  <a href="https://www.linkedin.com/in/jossep-miguel-hurtado-garcia-09284343a/">
     <img src="https://img.shields.io/badge/LinkedIn-0a1730?style=flat-square&logo=linkedin&logoColor=7b6cf6"/>
   </a>
   <a href="https://www.instagram.com/mjos.sep07">
