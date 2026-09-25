@@ -31,27 +31,18 @@ contracts = ["Stellar Smart Contracts", "Passkeys"]
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jossepv117&show_icons=true&hide_border=true&bg_color=0a1730&title_color=3ee8b5&icon_color=7b6cf6&text_color=e8ecf7&ring_color=38c6f4" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossepv117&layout=compact&hide_border=true&bg_color=0a1730&title_color=3ee8b5&text_color=e8ecf7" height="165"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=jossepv117&hide_border=true&background=0a1730&ring=7b6cf6&fire=3ee8b5&currStreakLabel=3ee8b5&sideLabels=e8ecf7&sideNums=e8ecf7&currStreakNum=e8ecf7&dates=7b6cf6&border=0a1730"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jossepv117&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 <p align="center">
   <a href="mailto:jossephurtadogarcia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-38c6f4?style=flat-square&logo=gmail&logoColor=0a1730"/>
+    <img src="https://img.shields.io/badge/Email-0a1730?style=flat-square&logo=gmail&logoColor=38c6f4"/>
   </a>
   <a href="https://www.linkedin.com/in/jossep-hurtado-garcia-56b182417/">
-    <img src="https://img.shields.io/badge/LinkedIn-7b6cf6?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0a1730?style=flat-square&logo=linkedin&logoColor=7b6cf6"/>
   </a>
   <a href="https://www.instagram.com/mjos.sep07">
-    <img src="https://img.shields.io/badge/Instagram-3ee8b5?style=flat-square&logo=instagram&logoColor=0a1730"/>
+    <img src="https://img.shields.io/badge/Instagram-0a1730?style=flat-square&logo=instagram&logoColor=3ee8b5"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-yacer0__0-38c6f4?style=flat-square&logo=discord&logoColor=0a1730"/>
+  <img src="https://img.shields.io/badge/Discord-yacer0__0-0a1730?style=flat-square&logo=discord&logoColor=5865F2"/>
 </p>
