@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/orca-swim.svg" width="400" alt="orca swimming"/>
+  <img src="./assets/aurora.gif" width="500" />
 </div>
 
 <h1 align="center">Jossep Miguel Hurtado Garcia</h1>
