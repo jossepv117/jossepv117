@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/11RO_DtqzQYAAAAd/dino-chromedino.gif" width="200" alt="dino running"/>
 </div>
 
-<h1 align="center">Josspe</h1>
+<h1 align="center">Jossep Miguel Hurtado Garcia</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
